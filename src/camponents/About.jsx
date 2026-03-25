@@ -8,7 +8,7 @@ const About = () => {
         {/* Heading */}
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-5xl font-bold text-[#1E0D00]">
-            About Panwar Web Studio
+            About Panwar Digital Solutions
           </h2>
 
           <p className="mt-4 text-gray-600 max-w-2xl mx-auto">

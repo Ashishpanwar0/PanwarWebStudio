@@ -26,7 +26,7 @@ const Hero = () => {
           </h1>
 
           <p className="mt-4 text-base sm:text-lg text-gray-300 max-w-lg mx-auto md:mx-0">
-            Panwar Web Studio creates modern, fast, and SEO-friendly websites
+            Panwar Digital Solutions creates modern, fast, and SEO-friendly websites
             to grow your business online and attract more customers.
           </p>
 
@@ -36,7 +36,7 @@ const Hero = () => {
               Get Started
             </button>
 
-            <button className="border border-white px-6 py-3 rounded-xl hover:bg-white hover:text-black transition">
+            <button href="#projects"  className="border border-white px-6 py-3 rounded-xl hover:bg-white hover:text-black transition">
               View Projects
             </button>
           </div>
