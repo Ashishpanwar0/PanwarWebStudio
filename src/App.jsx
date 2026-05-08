@@ -1,13 +1,31 @@
 import { useState } from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Home from './pages/Home';
+import Homepage from './pages/Homepage';
+import Aboutpage from './pages/Aboutpage';
+import Projectpage from './pages/Projectpage';
+import Contactpage from './pages/Contactpage';
+
 import './App.css'
+import { SiHomepage } from 'react-icons/si';
 
 const router = createBrowserRouter([
   {
     path:  "/",
-    element: <Home/>
+    element: <Homepage/>
+  },
+  {
+    path:  "/about",
+    element: <Aboutpage/>
+  },
+  {
+    path:  "/project",
+    element: <Projectpage/>
+  },
+  {
+    path:  "/contact",
+    element: <Contactpage/>
   }
+
 ]);
 
 function App(){

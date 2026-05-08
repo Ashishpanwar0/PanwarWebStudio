@@ -16,10 +16,10 @@ const Header = () => {
 
         {/* Desktop Menu */}
         <nav className="hidden text-[#3b1f0f] md:flex items-center gap-30 font-medium">
-          <a href="#home" className="hover:black hover:underline">Home</a>
-          <a href="#about" className="hover:black hover:underline">About</a>
-          <a href="#projects" className="hover:black hover:underline">Projects</a>
-          <a href="#contact" className="hover:black hover:underline">Contact</a>
+          <a href="/" className="hover:black hover:underline">Home</a>
+          <a href="/about" className="hover:black hover:underline">About</a>
+          <a href="/project" className="hover:black hover:underline">Projects</a>
+          <a href="/contact" className="hover:black hover:underline">Contact</a>
         </nav>
 
         {/* Button */}
