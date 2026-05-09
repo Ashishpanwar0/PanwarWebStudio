@@ -187,12 +187,12 @@ function Abt() {
       >
 
         <div>
-          <h2 style={{ fontSize: "45px" }}>20+</h2>
+          <h2 style={{ fontSize: "45px" }}>10+</h2>
           <p>Projects Delivered</p>
         </div>
 
         <div>
-          <h2 style={{ fontSize: "45px" }}>100+</h2>
+          <h2 style={{ fontSize: "45px" }}>20+</h2>
           <p>Happy Clients</p>
         </div>
 

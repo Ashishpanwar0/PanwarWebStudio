@@ -159,21 +159,21 @@ function Data() {
 
         <div>
           <h2 style={{ fontSize: "45px", marginBottom: "10px" }}>
-            50+
+            10+
           </h2>
           <p>Projects Completed</p>
         </div>
 
         <div>
           <h2 style={{ fontSize: "45px", marginBottom: "10px" }}>
-            100+
+            20+
           </h2>
           <p>Happy Clients</p>
         </div>
 
         <div>
           <h2 style={{ fontSize: "45px", marginBottom: "10px" }}>
-            5+
+            3+
           </h2>
           <p>Years Experience</p>
         </div>
