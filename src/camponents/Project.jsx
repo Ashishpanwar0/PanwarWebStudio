@@ -1,3 +1,11 @@
+import img1 from './../assets/Uttaranchal.png'
+import img2 from './../assets/anantyatri.png';
+import img4 from './../assets/Samoon.png';
+
+import img5 from './../assets/CGTI.png';
+import img6 from './../assets/PVhotel.png';
+
+
 import {
   ExternalLink,
   Globe,
@@ -12,8 +20,7 @@ const projects = [
     title: "Uttaranchal Travels",
     tag: "Travel Website",
     icon: Car,
-    image:
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    image:img1,
     features: ["Rental System", "Responsive UI", "Booking Flow"],
     link: "https://uttaranchaltravels.in/rental",
   },
@@ -22,8 +29,7 @@ const projects = [
     title: "Anant Yatri",
     tag: "Tour Blog",
     icon: Globe,
-    image:
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    image:img2,
     features: ["SEO Optimized", "Fast Loading", "Clean Design"],
     link: "https://anantyatri.com/",
   },
@@ -32,8 +38,7 @@ const projects = [
     title: "Student Management",
     tag: "Web App",
     icon: GraduationCap,
-    image:
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    image:"https://images.unsplash.com/photo-1517486808906-6ca8b3f04846",
     features: ["Dashboard", "Student Records", "Admin Panel"],
     link: "https://www.samoonskills.org/sms/",
   },
@@ -42,8 +47,7 @@ const projects = [
     title: "Samoon Sav",
     tag: "NGO Website",
     icon: Globe,
-    image:
-      "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846",
+    image:img4,
     features: ["Modern UI", "Responsive", "Clean Layout"],
     link: "https://samoonsav.netlify.app/",
   },
@@ -52,8 +56,7 @@ const projects = [
     title: "Computer Guru",
     tag: "Institute Site",
     icon: Code,
-    image:
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    image:img5,
     features: ["Courses", "Contact", "SEO Ready"],
     link: "https://demo.computerguru.co.in/",
   },
@@ -62,8 +65,7 @@ const projects = [
     title: "PV Hotel",
     tag: "Hotel Website",
     icon: Hotel,
-    image:
-      "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+    image:img6,
     features: ["Booking UI", "Gallery", "Responsive"],
     link: "https://pv-hotal-6c5589.netlify.app/",
   },
