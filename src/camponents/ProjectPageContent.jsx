@@ -102,10 +102,11 @@ const ProjectPageContent = () => {
                 </a>
 
                 <a
-                  href="#contact"
+                  href="/contact"
                   className="border border-white/20 bg-white/5 backdrop-blur-md text-white px-8 py-4 rounded-2xl hover:bg-white hover:text-[#1E0D00] transition duration-300"
                 >
                   Contact Us
+                  
                 </a>
 
               </div>
